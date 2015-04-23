@@ -19,6 +19,8 @@ public class HelloGitHub {
         // TODO code application logic here
         System.out.println("Local Hello");
         System.out.println("Hello Git");
+        System.out.println("Hello From Git!");
+        
     }
     
 }
