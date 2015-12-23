@@ -20,6 +20,7 @@ public class HelloGitHub {
         System.out.println("Local Hello");
         System.out.println("Hello Git");
         System.out.println("Hello From Git!");
+        System.out.println("Hello from hillel it school");
         
     }
     
